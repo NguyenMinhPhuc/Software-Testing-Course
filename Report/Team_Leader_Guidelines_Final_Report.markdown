@@ -169,4 +169,4 @@ Trưởng nhóm phân công vai trò và nhiệm vụ dựa trên kỹ năng và
   - Lecture_2_Building_Test_Plan.md (Slide 2, 3, 5-7).  
   - Lecture_4_Test_Case_Design.md (Slide 2, 3, 6-8).  
   - Lecture_5_Test_Report.md (Slide 2, 3, 6-8).  
-- **Bài giải mẫu**: `Sample_Solution_Manual_Testing_TodoApp.md` (nếu có).
+- **Bài giải mẫu**: `Sample_Solution_Manual_Testing_TodoApp.md` (Trong thư mục Example trên github).

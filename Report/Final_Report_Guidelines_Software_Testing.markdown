@@ -161,19 +161,5 @@ Nhóm thực hiện một quy trình kiểm thử thủ công hoàn chỉnh cho 
   - Lecture_4_Test_Case_Design.md (Slide 2, 3, 6-8).  
   - Lecture_5_Test_Report.md (Slide 2, 3, 6-8).  
   - Bài giải mẫu: Sample_Solution_Manual_Testing_TodoApp.md (nếu có).  
-- **Hỗ trợ**: Sinh viên có thể đặt câu hỏi qua email giảng viên hoặc diễn đàn lớp học.  
+- **Hỗ trợ**: Sinh viên có thể đặt câu hỏi qua email giảng viên (phuc@lhu.edu.vn)hoặc trực tiếp trên LMS.  
 
-## Hướng Dẫn Sử Dụng Trong Workspace
-1. **Lưu và tải file**:  
-   - Lưu file thành `Final_Report_Guidelines_Software_Testing.md` và tải lên Workspace trong Grok.  
-2. **Viết Prompt để mở rộng**:  
-   - Nếu cần bổ sung, dùng prompt như:  
-     ```
-     Tôi đã tải file "Final_Report_Guidelines_Software_Testing.md" vào Workspace. Vui lòng:
-     1. Thêm phần hướng dẫn chi tiết cho trưởng nhóm về quản lý tiến độ và phân công.
-     2. Tạo mẫu slide PowerPoint (mô tả hoặc pseudocode) cho thuyết trình báo cáo cuối kỳ.
-     3. Đề xuất cách tổ chức buổi thuyết trình (lịch trình, vai trò giảng viên).
-     Đầu ra: File markdown chứa hướng dẫn bổ sung, mẫu slide, và đề xuất.
-     ```
-3. **Kiểm tra và tinh chỉnh**:  
-   - Xem kết quả trong Grok Studio, kiểm tra quy định hoặc chỉnh sửa nếu cần.
